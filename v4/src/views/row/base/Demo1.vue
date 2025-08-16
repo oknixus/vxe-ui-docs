@@ -31,7 +31,7 @@
     <div class="row-wrapper">
       <vxe-row gutter="10">
         <vxe-col span="6">
-          <div class="mybg">占比16</div>
+          <div class="mybg">占比6</div>
         </vxe-col>
         <vxe-col span="4">
           <div class="mybg">占比4</div>
