@@ -5,7 +5,7 @@
         <div class="mybg">居左</div>
       </vxe-col>
       <vxe-col span="8" align="center">
-        <div class="mybg">居左</div>
+        <div class="mybg">居中</div>
       </vxe-col>
       <vxe-col span="8" align="right">
         <div class="mybg">居右</div>
